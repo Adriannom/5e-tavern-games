@@ -27,7 +27,7 @@ After each time a player cheats, they gain one point of suspicion. Suspicion usu
 Will probably only work with a very gullible opponent who will fall for tricks like "Look behind you! Oh look I rolled a double six while you weren't looking!". Automatically fails unless the DM decides that there is a compelling reason for the ruse to work. In those circumstances, roll deception vs passive insight of observers. Success means you can change the face of one die to any other face.
 
 ### Weighted Pigs
-For this you need two identical sets of pigs/dice (or similar, but roll with disadvantage). Roll sleight of hand vs passive perception of observers to successfully swap the dice. While weighted, any player who rolls may roll twice and pick the better result. You must roll again to swap the dice back, and it counts as another instance of cheating, so you gain 1 suspicion.
+For this you need two identical sets of pigs/dice (or similar, but roll with disadvantage). Roll sleight of hand vs passive perception of observers to successfully swap the dice. While weighted, any player who rolls may roll twice and pick the better result. You must roll again to swap the dice back, and it counts as another instance of cheating, so you gain another point of suspicion.
 
 ### Magic
 Remember that many spells require somatic and verbal components and so may not be possible to do covertly.
